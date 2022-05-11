@@ -1,0 +1,9 @@
+{
+  "name": "sitemapper-cli",
+  "version": "1.0.1",
+  "bin": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sitemapper": "^3.2.2"
+  }
+}
